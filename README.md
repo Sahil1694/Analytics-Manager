@@ -1,2 +1,2 @@
 # Analytics-Manager
-A Dashboard in Grafana. By Usinf Kafka And RabbitMQ 
+A Dashboard in Grafana. By Using Kafka And RabbitMQ 
